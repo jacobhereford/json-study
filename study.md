@@ -38,7 +38,11 @@ As it makes sense to you please write the following in JSON format:
 - Has lived in two places recently: 123 Fake street, and 2 Muchinfo Road
 
 ```json
-<!-- your answer here -->
+<!-- "Jason has many things..."
+      "A Cat name Mr.Kitty"
+      "Two roommates name Dave and Miller"
+      "A Love of the Red Sox, Patriots, and Bruins"
+      "Has live in two places recently: 123 Fake street, and 2 Muchinfo Road"-->
 ```
 
 ...I forgot, my roomate Dave has two goldfish, one named Bob (he's red) and the
