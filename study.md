@@ -39,6 +39,10 @@ As it makes sense to you please write the following in JSON format:
 
 ```json
 <!-- "Jason has many things..."
+      "name: Jason"
+      "verb: has"
+      "adjective: many"
+      "noun: things"
       "A Cat name Mr.Kitty"
       "Two roommates name Dave and Miller"
       "A Love of the Red Sox, Patriots, and Bruins"
